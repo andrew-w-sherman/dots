@@ -13,7 +13,8 @@ zplug "zsh-users/zsh-syntax-highlighting"
 zplug "zsh-users/zsh-autosuggestions"
 zplug "zsh-users/zsh-history-substring-search"
 zplug "mafredri/zsh-async"
-zplug "sindresorhus/pure", use:pure.zsh, as:theme
+#zplug "sindresorhus/pure", use:pure.zsh, as:theme
+zplug "denysdovhan/spaceship-prompt"
 
 PURE_PROMPT_SYMBOL=""
 
