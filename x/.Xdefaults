@@ -16,13 +16,10 @@
 !
 
 
-! █▓▒░ color scheme
-#include </home/a/.miasma.Xcolors>
-
 Xft.dpi: 144
 
 ! █▓▒░ fonts
-urxvt*font: xft:mononoki-Regular:size=15:antialias=true, \
+urxvt*font: xft:mononoki-Regular:size=16:antialias=true, \
             xft:Symbola:pixelsize=14:antialias=true:hinting=slight
 !urxvt*font: xft:gohufont:size=11:antialias=false
 !urxvt*font: -*-creep-regular-*-*--16-*-*-*-*-*-*-1
@@ -46,7 +43,7 @@ urxvt*lineSpace: 0
 urxvt*scrollBar: false
 urxvt*transparent: false
 urxvt*internalBorder: 10
-urxvt*borderColor: #1c1c1c
+urxvt*borderColor: #ffffff
 urxvt*borderLess:false
 
 ! █▓▒░ extensions

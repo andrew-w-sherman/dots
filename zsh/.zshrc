@@ -16,7 +16,7 @@ zplug "mafredri/zsh-async"
 #zplug "sindresorhus/pure", use:pure.zsh, as:theme
 zplug "denysdovhan/spaceship-prompt"
 
-PURE_PROMPT_SYMBOL=""
+SPACESHIP_CHAR_SYMBOL=" "
 
 # Install packages that have not been installed yet
 if ! zplug check --verbose; then
@@ -30,6 +30,5 @@ fi
 
 zplug load
 
-bindkey -v
 bindkey '^[[A'  history-substring-search-up
 bindkey '^[[B'  history-substring-search-down

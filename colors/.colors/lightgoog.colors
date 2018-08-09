@@ -1,0 +1,24 @@
+##Dark gray
+*.color0: #1d1f21
+*.color8: #969896
+##Crimson red
+*.color1: #dc143c
+*.color9: #dc143c
+##Dark-ish pastel green
+*.color2: #648A59
+*.color10: #648A59
+##Orange
+*.color3: #fba922
+*.color11: #fba922
+##Blue
+*.color4: #3971ed
+*.color12: #3971ed
+##Purple
+*.color5: #a36ac7
+*.color13: #a36ac7
+##Dark cyan (?)
+*.color6: #3971ed
+*.color14: #3971ed
+##Gray-ish
+*.color7: #c5c8c6
+*.color15: #ffffff
