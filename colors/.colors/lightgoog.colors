@@ -21,4 +21,5 @@
 *.color14: #3971ed
 ##Gray-ish
 *.color7: #c5c8c6
-*.color15: #ffffff
+*.color15: #f3f3f3
+*.background: #f3f3f3

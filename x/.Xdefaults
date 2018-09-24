@@ -43,7 +43,7 @@ urxvt*lineSpace: 0
 urxvt*scrollBar: false
 urxvt*transparent: false
 urxvt*internalBorder: 10
-urxvt*borderColor: #ffffff
+urxvt*borderColor: #f3f3f3
 urxvt*borderLess:false
 
 ! █▓▒░ extensions
