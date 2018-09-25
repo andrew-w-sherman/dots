@@ -30,3 +30,4 @@
 URxvt.colorIT:  #78824B
 URxvt.colorBD:  #d3d3d3
 URxvt.colorUL:  #40413E
+urxvt*borderColor: #222222
