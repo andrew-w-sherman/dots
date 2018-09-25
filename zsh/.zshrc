@@ -7,6 +7,8 @@ fi
 # Essential
 source ~/.zplug/init.zsh
 
+HISTFILE=.zsh_history
+
 # Make sure to use double quotes to prevent shell expansion
 zplug "rupa/z"
 zplug "zsh-users/zsh-syntax-highlighting"
@@ -32,3 +34,4 @@ zplug load
 
 bindkey '^[[A'  history-substring-search-up
 bindkey '^[[B'  history-substring-search-down
+
