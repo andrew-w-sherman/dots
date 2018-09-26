@@ -7,7 +7,7 @@ fi
 # Essential
 source ~/.zplug/init.zsh
 
-HISTFILE=.zsh_history
+HISTFILE=~/.zsh_history
 
 # Make sure to use double quotes to prevent shell expansion
 zplug "rupa/z"
